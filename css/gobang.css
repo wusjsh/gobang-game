@@ -1,0 +1,20 @@
+@charset "utf8";
+
+.row h1 {
+  font-size: medium;
+}
+
+.row h2 {
+  font-size: small;
+}
+
+.canvas {
+  margin: 5px auto;
+  box-shadow: 5px 5px 5px grey;
+  background-image: url("../image/background.jpg");
+}
+
+.info {
+  font-size: 16px;
+  text-align: left;
+}
